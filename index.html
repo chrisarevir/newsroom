@@ -5,33 +5,79 @@
     <title>Christian Rivera</title>
   </head>
   <style>
-    marquee {
-      color: white;
-      font-size: 40px;
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
     }
+
     body {
       background-color: rgba(0, 0, 0, 0);
-      border: 1px solid white;
-      height: 1080px;
-      line-height: normal;
-      margin: 0px;
+      /* border: 1px solid white; */
+      /* height: 540px; */
+      /* margin: 8px; */
+      /* width: 960px; */
+    }
+
+    @keyframes ticker {
+      0% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        visibility: visible;
+      }
+
+      100% {
+        -webkit-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+      }
+    }
+
+    .ticker-container {
+      background-color: rgba(#000, 0.9);
+      bottom: 0;
+      box-sizing: content-box;
+      height: 4rem;
       overflow: hidden;
-      width: 1920px;
+      padding-left: 100%;
+      bottom: 0;
+      position: fixed;
+      width: 100%;
+    }
+
+    .ticker {
+      box-sizing: content-box;
+      display: inline-block;
+      height: 4rem;
+      line-height: 4rem;
+      padding-right: 100%;
+      white-space: nowrap;
+
+      -webkit-animation-iteration-count: infinite;
+      animation-iteration-count: infinite;
+      -webkit-animation-timing-function: linear;
+      animation-timing-function: linear;
+      -webkit-animation-name: ticker;
+      animation-name: ticker;
+      -webkit-animation-duration: 60s;
+      animation-duration: 60s;
+    }
+
+    .ticker__item {
+      display: inline-block;
+      padding: 0 2rem;
+      font-size: 2rem;
+      color: white;
     }
   </style>
+
   <body>
-    <marquee scrollamount="10">
-      Things you can ONLY do in Internet Explorer 11. Abandoned Hydra Client
-      linter errors leave 11 with Carpal Tunnel. Incredulous Backenders: "CSS is
-      hard? It's not even a real language!" Things you can ONLY do in Internet
-      Explorer 11. Abandoned Hydra Client linter errors leave 11 with Carpal
-      Tunnel. Incredulous Backenders: "CSS is hard? It's not even a real
-      language!" Things you can ONLY do in Internet Explorer 11. Abandoned Hydra
-      Client linter errors leave 11 with Carpal Tunnel. Incredulous Backenders:
-      "CSS is hard? It's not even a real language!" Things you can ONLY do in
-      Internet Explorer 11. Abandoned Hydra Client linter errors leave 11 with
-      Carpal Tunnel. Incredulous Backenders: "CSS is hard? It's not even a real
-      language!"
-    </marquee>
+    <div class="ticker-container">
+      <div class="ticker">
+        <!-- prettier-ignore -->
+        <div class="ticker__item">
+          Things you can ONLY do in Internet Explorer 11. Abandoned Hydra Client linter errors leave 11 with Carpal Tunnel. Incredulous Backenders: "CSS is hard? It's not even a real language!" Things you can ONLY do in Internet Explorer 11. Abandoned Hydra Client linter errors leave 11 with Carpal Tunnel. Incredulous Backenders: "CSS is hard? It's not even a real language!" Things you can ONLY do in Internet Explorer 11. Abandoned Hydra Client linter errors leave 11 with Carpal Tunnel. Incredulous Backenders: "CSS is hard? It's not even a real language!" Things you can ONLY do in Internet Explorer 11. Abandoned Hydra Client linter errors leave 11 with Carpal Tunnel. Incredulous Backenders: "CSS is hard? It's not even a real language!"
+        </div>
+      </div>
+    </div>
   </body>
 </html>
