@@ -2,7 +2,7 @@
 
 Contains files and settings used to create the zoom illusion of a newsroom as we report the breaking news from this year.
 
-In order to make it work with zoom, we are using OBS, a free, broadcasting/streaming software to trick zoom into thinking a composed video stream is a normal camera.
+In order to make it work with zoom, we are using OBS, [a free, broadcasting/streaming software](https://obsproject.com) to trick zoom into thinking a composed video stream is a normal camera.
 
 Using the following setup paired with the files found in this repo, you too can recreate this scenario!
 
