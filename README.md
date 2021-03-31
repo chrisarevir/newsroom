@@ -16,7 +16,7 @@ For best results, add these in the following order to layer them correctly on yo
 
 ## Layers
 
-The First two are text blocks and are the "dynamic" text that will appear to be a part of the top line on the overlay.
+The First two are text blocks and are the "dynamic" text that will appear to be a part of the top line on the overlay. Feel free to change the "Troy & Christian" layer to be your name or your segments name if you like, but do keep the DST News bit for consistency!
 
 Ticker and Overlay read from "browser sources", but we are taking advantage of the fact that you can point it to local files. You can find the corresponding html pages to point those two layers towards named the same here.
 
