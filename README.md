@@ -20,7 +20,7 @@ The First two are text blocks and are the "dynamic" text that will appear to be 
 
 Ticker and Overlay read from "browser sources", but we are taking advantage of the fact that you can point it to local files. You can find the corresponding html pages to point those two layers towards named the same here.
 
-Camera is slightly trickier. If you have an actual green screen, feel free to point it directly to your camera of choice. If you are like us, you can fake a very convincing green screen by routing your desired camera to [Snap Camera](https://snapcamera.snapchat.com), applyin gthe greenscreen effect, and then in OBS choosing the SnapCamera as the source. This lets you have a background while having the foreground overlays still on top for proper layering.
+Camera is slightly trickier. If you have an actual green screen, feel free to point it directly to your camera of choice. If you are like us, you can fake a very convincing green screen by routing your desired camera to [Snap Camera](https://snapcamera.snapchat.com), applying the greenscreen effect on it, and then in OBS choosing the SnapCamera as the source. This lets you have a background while having the foreground overlays still on top for proper layering. This is achieved by adding a filter on the camera in it's settings that is a "chroma key" filter. The automatic settings (green) should be good enough here, but if you run into trouble, feel free to ping us for troubleshooting.
 
 The background layer is the video layer that needs to be set to loop upon completion. It has no sound, but, but is very convincing to have the background be a "live studio" loop.
 
