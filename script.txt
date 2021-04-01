@@ -1,8 +1,42 @@
 <troy>
 Good Morning, and welcome to DST news. I’m your host, Troy “Data” Tables, and I’m joined today by my partner Christian “Code” Reviewa
 <Christian>
-Hello, I’m Christian, it's April 1st, and here are today’s top stories. When asked about Date Time, area developer George Barrios tentatively suggested 6pm
+It's April 1st, and here are today’s top stories. When asked about Date Time, area developer George Barrios tentatively suggested 6pm
 <troy>
 I don’t think that’s what we meant George
 <Christian>
-In other news, the scope of the newly minted Frontend Foundations team has expanded once again. Operating as Frontend Lost & Found ations, the team will take on the additional role of shepherding lost code (and developers) back to where they belong
+In other news, the scope of the newly minted Frontend Foundations team has expanded once again. Operating as Frontend Lost & Found ations, the team will take on the additional role of shepherding lost code (and developers) back to where they belong.
+
+And now for the Daily Update, sponsored by the G N U license. It's GNU, for me and you
+
+
+<troy>
+On the developer front, the webpack 5 work is progressing smoothing under the fastidious eyes of Faris and Christian. The JSS refactor is nearly complete, can you believe it? In DataTables, progress is slow but steady, with another major contribution nearing completion. As the great Yogi Berra once said, "Data Tables or Table Data, it's all spreadsheets to me"
+
+Now let's kick it off to our trusty weatherman, Raynor Schein. Raynor, what do we have in store?
+
+
+Thanks Rayn, and now let's hear our Sports Update from Amanda
+
+<christian>
+And that was Amanda, literally from the field
+
+<Camera Change!!!!!!!>
+Speaking of fields, our man in the field Brock has a special report for us today. Take it away Brock
+
+<Camera Change !!!!!>
+<christian>
+Thank you Brock, and thanks to all of our listeners. 
+
+<troy>
+This concludes our broadcast. I'm Troy
+
+<christian>
+
+And I'm Christian
+
+<tandem>
+
+And this is the DST News. Go Team.
+
+
