@@ -1,10 +1,16 @@
 ASPCA
 
+length: 2:01
+transcript: https://www.virginiawestern.edu/eng111/ASPCAAnnouncement.pdf
+video: https://www.youtube.com/watch?v=6eXfvRcllV8
+
+---- // This is overlay text that isn't read aloud
 Every day in America thousands of animals suffer from cruelty and neglect
 
 Thousands were rescued last year
 
 But for thousands of others help came too late
+----
 
 Hi, I’m Sarah McLachlan. Will you be an angel for a helpless animal? Everyday innocent animals are abused, beaten, and neglected. And they’re crying out for help.
 
@@ -16,7 +22,11 @@ Right now, there’s an animal who needs you. Your call says, “I’m here to h
 
 DSPCA
 
+length: ~50s with few pauses
+
+--- // Overlay text?
 Every day in Procore tens of design system components suffer from neglect
+---
 
 Hi, I’m Christian Rivera with the DSPCA. Will you be an angel for a helpless component? 
 Every day styling capabilities are abused, system patterns are changed, or neglected. 
