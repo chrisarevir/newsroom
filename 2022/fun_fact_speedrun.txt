@@ -1,0 +1,25 @@
+Fact 1
+link: https://en.wikipedia.org/wiki/SMS_Cap_Trafalgar
+
+During WW1 ocean liners (long distance oceanic passenger ships) were converted to military vessels.
+One german boat, SS Cap Trafalgar was disguised as a British ship, RMS Carmania, and tasked with disrupting British
+merchant supply lines. Upon leaving port, the first vessel it encountered was the real RMS Carmania, another
+converted ocean liner, which promptly sunk the fake Carmine.
+
+Fact 2
+link: https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon
+
+The Hanging Gardens of Babylon is the only among the 7 Wonders of the Ancient World (as told by the Greeks)
+that has no known location. It is either:
+- Entirely a myth
+- Was destroyed sometime in the first century BC
+- (Most likely) not in _Babylon_ but another "Babylon" which means "Gate of the Gods" and is actually in Nineveh
+    - However the ruins are in an area of syria under frequent military occupation so they cannot be explored currently
+
+Fact 3
+link: https://en.wikipedia.org/wiki/Brink%27s-Mat_robbery
+
+6 men rob security company Brinks-mat holdings in Heathrow airport with help from insider.
+One of the thieves bought a house with cash from the robbery and 2 guard dogs, named Brinks and Mat.
+Much of the 3 tons of gold has never been recovered, but some details of its fencing were reported in
+the Panama Papers from 2016
