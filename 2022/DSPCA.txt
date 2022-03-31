@@ -28,15 +28,15 @@ length: ~50s with few pauses
 Every day in Procore tens of design system components suffer from neglect
 ---
 
-Hi, I’m Christian Rivera with the DSPCA. Will you be an angel for a helpless component? 
-Every day styling capabilities are abused, system patterns are changed, or neglected. 
+Hi, I’m Christian Rivera with the DSPCA. Will you be an angel for a helpless component?
+Every day styling capabilities are abused, system patterns are changed, or neglected.
 And the system is crying for our help.
 
-Please, slack the channel on your screen with a quarterly contribution right now. 
-For just one sprint a quarter, only a few minutes a day, you’ll help rescue components from 
-and experiences from dusty recesses and snowflake implementations and help provide proper 
-implementation and maintenance. Zoom, or join on slack in the next 30 minutes, and you’ll 
-receive emoji reactions along with a screenshot of a component that’s been 
+Please, slack the channel on your screen with a quarterly contribution right now.
+For just one sprint a quarter, only a few minutes a day, you’ll help rescue components from
+and experiences from dusty recesses and snowflake implementations and help provide proper
+implementation and maintenance. Zoom, or join on slack in the next 30 minutes, and you’ll
+receive emoji reactions along with a screenshot of a component that’s been
 adopted right now - one that’s been given a second chance, thanks to you.
 
 Right now, there’s a platform that needs you. Your contribution says “I’m here to help”.
