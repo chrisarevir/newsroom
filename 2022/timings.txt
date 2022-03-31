@@ -1,0 +1,15 @@
+0:00 => 0:06 Opening Shot
+0:06 => 0:11 Text
+0:12 => 0:14 Animal
+0:14 => 0:17 Animal
+0:18 => 0:23 Text
+0:24 => 0:30 Animal getting help
+0:31 => 0:36 Text
+0:37 => 0:40 Animal
+0:41 => 0:41 Animal (mewing)
+0:42 => 0:53 Animal every second
+0:54 => 1:05 Sarah Mclaughlan starts talking
+1:06 => 1:35 Montage of animals being loved
+1:36 => 1:47 Pause on talking, all montage
+1:48 => 1:53 Right now...
+!:54 => 2:00 Ending montage
