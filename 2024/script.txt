@@ -1,0 +1,79 @@
+T: Good morning, I’m Troy
+
+C: I’m Christian
+
+T & C: and this is UIF News
+
+C: Well Troy, it’s April 1st and you know what that means?
+
+T: It’s Q2
+
+C: Yes that’s right, it’s Q2 2024, even though I’m pretty sure yesterday was January 15th 2023
+
+T: Time flies when you’re having Helix
+
+C: It sure does, but speaking of 2023 that brings us to our top story.
+
+[cut to solo medium shot of christian with dramatic pivot to secondary camera]
+C: In what may feel like a scene straight out of classic 1993 film Groundhog Day, the UIF roadmap for 2024 is looking 
+alarmingly similar to the initial proposal for the 2023 roadmap.
+C: There have been a “growth” of concerns around the similarity, leaving some “division” among UIF members. 
+C: Some are questioning if this was a foreseeable and preventable outcome, while Friedrich Nietzsche maintains 
+that time is a flat circle and we are doomed to endlessly repeat our actions
+T: [Off-camera] Nietzsche? Who let him on the team?
+C: Shut up Troy, this is my piece // can workshop interjection
+C: In any case, sources close to the matter claim the 2024 roadmap has been named "Copy of 2023_roadmap final final",
+indicating that this is in fact the actual roadmap.
+
+T: Well that's comforting at least. Next up we'll hear from our man in the field [Jeremy or alt moniker], who
+has been [intro to topic]. It's all yours [Jeremy or alt moniker]
+
+-- Jeremy Segment --
+
+T: Truly astounding, thank you [Jeremy or alt moniker] for your intrepid reporting as always.
+
+C: We now have news of a breaking report abroad, picking up the case is our Foreign Corrospondent, [Nick or alt moniker]
+
+-- Nick Segment --
+
+C: I can think of 18 ways to describe that piece ///// i18n joke, l10n joke???
+
+T: And now a few words from our sponsors
+
+-- State Farm / DS ad --
+
+-- Used Component Salesman ad --
+
+T: Hello and welcome back. 
+T: [Massive grin, holding back laughter] It is with extreme sadness I must report the passing of Core Labs
+C: *gasp*
+T: [still grinning] Yes, unfortunately, the much beloved and never problematic monorepo has finally bitten the dust
+T: The funeral cake is still fresh in fact [eat cake]
+C: Wait where did you get cake, I want some
+T: shut up christian, this is my piece
+T: [mouth somewhat full of cake] The celebration of life has been carried out in several states, countries, and time
+zones with revel -- er mourners taking to the streets to remember a lost icon
+C: *interjects* of poor performance
+T: In completely and unequivocally unrelated news, frontend CircleCI usage at procore has been down 60% and shared 
+component development has never been faster.
+
+C: It's now time for the weather, from our wonderful weatherwoman (or was it weatherful wonderwoman?) [Robbin or alt moniker]
+
+-- Robbin weather --
+
+C: Thank you for the report, [some kind of tie-in joke]
+
+T: And now for our final segment, we have [Brock or alt moniker]
+
+-- Brock office --
+
+T: [some kind of tie in joke]
+
+C: That's all of our stories for the day, thank you for watching.
+
+C: I'm Christian
+T: And I'm Troy
+
+C&T: Good day and go team
+
+[Zoom out & fade to black Christian and Troy talkin, laughing]
