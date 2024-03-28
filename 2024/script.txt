@@ -23,9 +23,16 @@ that time is a flat circle and we are doomed to endlessly repeat our actions
 T: [Off-camera] Nietzsche? Who let him on the team?
 C: Shut up Troy, this is my piece // can workshop interjection
 C: In any case, sources close to the matter claim the 2024 roadmap has been named "Copy of 2023_roadmap final final",
-indicating that this is in fact the actual roadmap.
+indicating that this is in fact no longer open to revisions.
 
-T: Well that's comforting at least. Next up we'll hear from our man in the field [Jeremy or alt moniker], who
+C: In other UIF news it will come as no surprise to veterans of the team that UIF is once again in consideration for owning
+absolutely anything remotely related to Frontend
+C: Recent examples include gaining ownership of the Header, Footer, Armer, Kneer, and a pending request for the Body.
+A system of systems approach is being proposed to introduce a new system, the Nervous System, which will be used for messaging
+as well as Reacting
+
+
+T: This will make Helix truly the backbone of the company. Next up we'll hear from our man in the field [Jeremy or alt moniker], who
 has been [intro to topic]. It's all yours [Jeremy or alt moniker]
 
 -- Jeremy Segment --
