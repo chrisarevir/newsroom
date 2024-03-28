@@ -61,12 +61,12 @@ T: The i18n team has recently released Get To Know 3 aka GTK 3. This exciting pr
 number. [bg image Sesame Street Count w/ 3] This release provides key functionality to complete our High Integrity Commitment
 to HBO for the construction of Sesame Street
 
-C: We have reports of a story breaking abroad, we are now going live with our Foreign Corrospondent, [Nick or alt moniker]
+C: We have reports of a story breaking abroad, we are now going live with our Foreign Corrospondent, Nick
 
 -- Nick Segment --
 
 
-T: Thank you Nick. Legendary television and movie producer Jerry Bruckheimer has expressed interest in Helix. Bruckheimer is rebooting his
+T: Arrivederci Nick, I hope you don't Rome too far from home. Legendary television and movie producer Jerry Bruckheimer has expressed interest in Helix. Bruckheimer is rebooting his
 classic series Pirates of the Carribean, and felt the Dock would be a perfect fit. In an interview, Bruckheimer said he loved
 the Dock, calling it "iconic" --  ah correction he said it contained icons. It is unclear if Johnny Depp, who played Captain Jack Sparrow
 in the previous films is attached to the project, but our sources say the Sidepanel is.
