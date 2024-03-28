@@ -8,22 +8,23 @@ C: Well Troy, it’s April 1st and you know what that means?
 
 T: It’s Q2
 
-C: Yes that’s right, it’s Q2 2024, even though I’m pretty sure yesterday was January 15th 2023
+C: Yes that’s right, it’s Q2 2024, even though I’m pretty sure yesterday was January 2023
 
 T: Time flies when you’re having Helix
 
 C: It sure does, but speaking of 2023 that brings us to our top story.
 
-[cut to solo medium shot of christian with dramatic pivot to secondary camera]
+[------- cut to solo medium shot of christian with dramatic pivot to secondary camera ---------]
 C: In what may feel like a scene straight out of classic 1993 film Groundhog Day, the UIF roadmap for 2024 is looking 
 alarmingly similar to the initial proposal for the 2023 roadmap.
 C: There have been a “growth” of concerns around the similarity, leaving some “division” among UIF members. 
 C: Some are questioning if this was a foreseeable and preventable outcome, while Friedrich Nietzsche maintains 
 that time is a flat circle and we are doomed to endlessly repeat our actions
 T: [Off-camera] Nietzsche? Who let him on the team?
-C: Shut up Troy, this is my piece // can workshop interjection
 C: In any case, sources close to the matter claim the 2024 roadmap has been named "Copy of 2023_roadmap final final",
 indicating that this is in fact no longer open to revisions.
+
+[------- Switch back to Camera 1 ---------------- ]
 
 C: In other UIF news it will come as no surprise to veterans of the team that UIF is once again in consideration for owning
 absolutely anything remotely related to Frontend
@@ -39,11 +40,11 @@ has been [intro to topic]. It's all yours [Jeremy or alt moniker]
 
 T: Truly astounding, thank you [Jeremy or alt moniker] for your intrepid reporting as always.
 
-C: We now have news of a breaking report abroad, picking up the case is our Foreign Corrospondent, [Nick or alt moniker]
+C: It's now time for the weather, from our wonderful weatherwoman (or was it weatherful wonderwoman?) [Robbin or alt moniker]
 
--- Nick Segment --
+-- Robbin weather --
 
-C: I can think of 18 ways to describe that piece ///// i18n joke, l10n joke???
+C: Thank you for the report, [some kind of tie-in joke]
 
 T: And now a few words from our sponsors
 
@@ -52,29 +53,30 @@ T: And now a few words from our sponsors
 -- Used Component Salesman ad --
 
 T: Hello and welcome back. 
-T: [Massive grin, holding back laughter] It is with extreme sadness I must report the passing of Core Labs
-C: *gasp*
-T: [still grinning] Yes, unfortunately, the much beloved and never problematic monorepo has finally bitten the dust
-T: The funeral cake is still fresh in fact [eat cake]
-C: Wait where did you get cake, I want some
-T: shut up christian, this is my piece
-T: [mouth somewhat full of cake] The celebration of life has been carried out in several states, countries, and time
-zones with revel -- er mourners taking to the streets to remember a lost icon
-C: *interjects* of poor performance
-T: In completely and unequivocally unrelated news, frontend CircleCI usage at procore has been down 60% and shared 
-component development has never been faster.
+T: A new member of the i18n team reported for standup from Paris France this week, an all too common blunder when a newhire
+is asked to validate a french locale. Despite all of the delicious croissants and baguettes, or perhaps due to them, the
+team member considers the trip a pain -- [baguette bg image]
 
-C: It's now time for the weather, from our wonderful weatherwoman (or was it weatherful wonderwoman?) [Robbin or alt moniker]
+T: The i18n team has recently released Get To Know 3 aka GTK 3. This exciting program will teach users all about the third
+number. [bg image Sesame Street Count w/ 3] This release provides key functionality to complete our High Integrity Commitment
+to HBO for the construction of Sesame Street
 
--- Robbin weather --
+C: We have reports of a story breaking abroad, we are now going live with our Foreign Corrospondent, [Nick or alt moniker]
 
-C: Thank you for the report, [some kind of tie-in joke]
+-- Nick Segment --
+
+
+T: Thank you Nick. Legendary television and movie producer Jerry Bruckheimer has expressed interest in Helix. Bruckheimer is rebooting his
+classic series Pirates of the Carribean, and felt the Dock would be a perfect fit. In an interview, Bruckheimer said he loved
+the Dock, calling it "iconic" --  ah correction he said it contained icons. It is unclear if Johnny Depp, who played Captain Jack Sparrow
+in the previous films is attached to the project, but our sources say the Sidepanel is.
+
 
 T: And now for our final segment, we have [Brock or alt moniker]
 
 -- Brock office --
 
-T: [some kind of tie in joke]
+T: And that was Procorelitzer prize winning journalist, Brock Noah.
 
 C: That's all of our stories for the day, thank you for watching.
 
