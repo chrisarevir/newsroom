@@ -1,6 +1,6 @@
-T: Good morning, I’m Troy
+C: I’m your host Christian
 
-C: I’m Christian
+T: Good morning, I’m Troy
 
 T & C: and this is UIF News
 
@@ -26,21 +26,22 @@ indicating that this is in fact no longer open to revisions.
 
 [------- Switch back to Camera 1 ---------------- ]
 
-C: In other UIF news it will come as no surprise to veterans of the team that UIF is once again in consideration for owning
-absolutely anything remotely related to Frontend
-C: Recent examples include gaining ownership of the Global Header, Shoulder, Kneer, and Footer with a pending request for the Body.
-A system of systems approach is being proposed to introduce a new case, the Nervous System, which will be used for messaging
-as well as Reacting
+C: The UIF team is known for having a large surface area in its domain, with an equally large body of work to focus on.
+C: However recently, this has been taken to new extremes. The team has gained ownership of the Global Header, Shoulder, Kneer, and Footer.
+A new proposal in the system of systems pattern introduces the Nervous System, used for messaging as well as Reacting. 
+
+C: On a personal note, it may be tempting to keep these new areas at arms length, but those willing to go out on a
+limb will be rewarded with building a robust end to end experience for all of Procore
 
 
-T: This will make Helix the backbone of the company. Next up we'll hear from our man in the field [Jeremy or alt moniker], who
+T: [Exchange knowing glance with Christian] End to end, huh? Next up we'll hear from our man in the field [Jeremy or alt moniker], who
 has been [intro to topic]. It's all yours [Jeremy or alt moniker]
 
 -- Jeremy Segment --
 
 T: Truly astounding, thank you [Jeremy or alt moniker] for your intrepid reporting as always.
 
-C: It's now time for the weather, from our wonderful weatherwoman (or was it weatherful wonderwoman?) [Robbin or alt moniker]
+C: It's now time for the weather, from our wonderful weatherwoman (or was it weatherful wonderwoman?) Robbin
 
 -- Robbin weather --
 
@@ -52,7 +53,7 @@ T: And now a few words from our sponsors
 
 -- Used Component Salesman ad --
 
-[----- cut to solo medium shot of troy camera 3 ------]
+[----- cut to solo medium shot of troy camera 2 ------]
 
 T: Hello and welcome back. 
 T: A new member of the i18n team reported for standup from Paris France this week, an all too common blunder when a newhire
@@ -67,7 +68,7 @@ C: We have reports of a story breaking abroad, we are now going live with our Fo
 
 -- Nick Segment --
 
-[---- camera back to both -----]
+[---- back to both camera 1 -----]
 
 T: Arrivederci Nick, I hope you don't Rome too far from home. Legendary television and movie producer
 Jerry Bruckheimer has expressed interest in Helix. Bruckheimer is rebooting his classic series Pirates
