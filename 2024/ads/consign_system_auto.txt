@@ -1,6 +1,6 @@
 Ron: Do you need components now? Tried and true components, not some shiny new toy.
 
-Ron: I'm Ron Tend, he's... Gary. Come on down to Consign System Gently Used Components, we got everything you need.
+Ron: I'm Ron Tend, he's... Gary. He's new. Come on down to Consign System Gently Used Components, we got everything you need.
 (overlay name, logo)
 
 Gary: Consign System Gently Used Components has a component that almost works for almost any situation
@@ -20,11 +20,14 @@ Ron: Need a font? We got twenty! How does Roboto sound?
 
 -- Cut --
 
-Gary: 8 versions behind? Nonsense, we believe every version has a value
+Gary: 8 versions behind? We like to think of it as having room to grow
 
 -- Cut to aside between Ron and Gary --
 Gary: But Ron, won't these components ultimately end up slowin' 'em down?
-Ron: Be quiet Gary, we are sellin these components it don't matter
+Ron: Be quiet Gary, we are sellin these components, once we sell em it's not our problem
+
+[optional: Now Gary we're real low on budget, can you be one of them wacky inflatable dancing men for me?]
+
 Gary: Whatever you say Ron Tend you're the boss
 
 -- Cut to dancing -- 
