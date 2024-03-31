@@ -42,9 +42,7 @@ C: It's now time for the weather, from our wonderful weatherwoman (or was it wea
 
 C: Thank you Robbin for your always-helpful forecasts in these helical times
 
-T: And now a few words from our sponsors
-
--- State Farm / DS ad --
+T: And now a few words from our sponsor
 
 -- Used Component Salesman ad --
 
