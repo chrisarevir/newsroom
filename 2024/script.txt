@@ -1,0 +1,88 @@
+C: I’m your host Christian
+
+T: Good morning, I’m Troy
+
+T & C: and this is UIF News
+
+C: Well Troy, it’s April 1st and you know what that means?
+
+T: It’s Q2
+
+C: Yes that’s right, it’s Q2 2024, even though I’m pretty sure yesterday was January 2023
+
+T: Time flies when you’re having Helix
+
+C: It sure does, but speaking of 2023 that brings us to our top story.
+
+[------- cut to solo medium shot of christian with dramatic pivot to camera 2 ---------]
+C: In what may feel like a scene straight out of classic 1993 film Groundhog Day, the UIF roadmap for 2024 is looking 
+alarmingly similar to the initial proposal for the 2023 roadmap.
+C: There have been a “growth” of concerns around the similarity, leaving some “division” among UIF members. 
+C: Some are questioning if this was a foreseeable and preventable outcome, while Friedrich Nietzsche maintains 
+that time is a flat circle and we are doomed to endlessly repeat our actions
+T: [Off-camera] Nietzsche? Who let him on the team?
+C: In any case, sources close to the matter claim the 2024 roadmap has been named "Copy of 2023_roadmap final final",
+indicating that this is in fact no longer open to revisions.
+
+[------- Switch back to Camera 1 ---------------- ]
+
+C: The UIF team is known for having a large surface area in its domain, with an equally large body of work to focus on.
+C: However recently, this has been taken to new extremes. The team has gained ownership of the Global Header, Shoulder, Kneer, and Footer.
+A new proposal in the system of systems pattern introduces the Nervous System, used for messaging as well as Reacting. 
+
+C: On a personal note, it may be tempting to keep these new areas at arms length, but those willing to go out on a
+limb will be rewarded with building a robust end to end experience for all of Procore
+
+
+T: [Exchange knowing glance with Christian] End to end, huh?
+
+C: It's now time for the weather, from our wonderful weatherwoman (or was it weatherful wonderwoman?) Robbin
+
+-- Robbin weather --
+
+C: Thank you Robbin for your always-helpful forecasts in these helical times
+
+T: And now a few words from our sponsors
+
+-- State Farm / DS ad --
+
+-- Used Component Salesman ad --
+
+[----- cut to solo medium shot of troy camera 2 ------]
+
+T: Hello and welcome back. 
+T: A new member of the i18n team reported for standup from Paris France this week, an all too common blunder when a newhire
+is asked to validate a french locale. Despite all of the delicious croissants and baguettes, or perhaps due to them, the
+team member considers the trip a pain -- [baguette bg image]
+
+T: The i18n team has recently released Get To Know 3 aka GTK 3. This exciting program will teach users all about the third
+number. [bg image Sesame Street Count w/ 3] This release provides key functionality to complete our High Integrity Commitment
+to HBO for the construction of Sesame Street
+
+C: We have reports of a story breaking abroad, we are now going live with our Foreign Corrospondent, Nick
+
+-- Nick Segment --
+
+[---- back to both camera 1 -----]
+
+T: Arrivederci Nick, I hope you don't Rome too far from home. Legendary television and movie producer
+Jerry Bruckheimer has expressed interest in Helix. Bruckheimer is rebooting his classic series Pirates
+of the Carribean, and felt the Dock would be a perfect fit. In an interview, Bruckheimer said he loved
+the Dock, calling it "iconic" --  ah correction he said it contained icons. It is unclear if Johnny Depp,
+who played Captain Jack Sparrow in the previous films is attached to the project, but our sources say the Sidepanel is.
+
+
+C: And now for our final segment, we have Brock from Procore HQ. How's the office?
+
+-- Brock office --
+
+T: And that was Procorelitzer prize winning journalist, Brock Noah.
+
+C: That's all of our stories for the day, thank you for watching.
+
+T: I'm Christian
+C: And I'm Troy
+
+C&T: Good day and go team
+
+[Zoom out & fade to black Christian and Troy talkin, laughing]

@@ -1,0 +1,52 @@
+Ron: Do you need components now? Tried and true components, not some shiny new toy.
+
+Ron: I'm Ron Tend, he's... Gary. He's new. Come on down to Consign System Gently Used Components, we got everything you need.
+(overlay name, logo)
+
+Gary: Consign System Gently Used Components has a component that almost works for almost any situation
+
+-- Cut -- 
+
+Ron: *Slaps roof* You can fit so much tech debt in this thing?
+
+-- Cut -- 
+
+Gary: Need a table you can add a second smaller table in that's just a little bit green and triggers a full page modal? 
+We got a few of those out back
+
+-- Cut -- 
+
+Ron: Need a font? We got twenty! How does Roboto sound?
+
+-- Cut --
+
+Gary: 8 versions behind? We like to think of it as having room to grow
+
+-- Cut to aside between Ron and Gary --
+Gary: But Ron, won't these components ultimately end up slowin' 'em down?
+Ron: Be quiet Gary, we are sellin these components, once we sell em it's not our problem
+
+[optional: Now Gary we're real low on budget, can you be one of them wacky inflatable dancing men for me?]
+
+Gary: Whatever you say Ron Tend you're the boss
+
+-- Cut to dancing -- 
+Ron: Find a near fit today down at Consign System Gently Used Components!
+Gary: Our lawyers made us say the next bit
+
+
+------------------------------------------------------------------------------
+
+Consign System Gently Used Components are not responsible or liable for any breaking of
+builds, client experiences, production environments, servers, smart fridges, or anything
+else executing the product. Side effects of Consign System components may include but are
+not limited to: visual bugs, runtime errors, poor interactions, decrease in accessibility,
+nausea, heartburn, indegestion, upset stomach, you get the idea, and in some cases even death.
+
+Consign System Gently Used Components has a 0 return policy. In fact, once you touch it, it's
+yours no take-backsies. Any inquiries about the component shall be forwarded to the new owner,
+and any previous debt owed is now the responsibility of the owner.
+
+Consign System Gently Used Components does not necessarily endorse their products and the
+opinions displayed in this ad are not their own. Upon installing a Consign System component
+the user forfeits all rights to damages or suit.
