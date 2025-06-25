@@ -88,3 +88,6 @@
 - This word denotes a score of 0 in a certain sport, coming from the French word for egg L'oeuf
 
   - Love - play music bit
+
+Final Jeopardy
+Oh no! The name NGX has already been taken by Nvidia as their platform for building AI-enhanced features. Quick, come up with the replacement replacement name for the Next Gen Experience (fka Helix)
