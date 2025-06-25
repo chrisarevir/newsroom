@@ -57,7 +57,7 @@
 - A small group of UIF engineers now review all proposed changes made to this service, commonly used for rollouts
   [answer pending approval from production-env-review-team]
 
-      - LD
+      - LaunchDarkly
 
 - This was the latest locale added to Procore
 
